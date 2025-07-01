@@ -1,1 +1,0 @@
-# Deriv-ticks-tracker
